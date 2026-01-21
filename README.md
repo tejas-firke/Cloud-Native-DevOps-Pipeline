@@ -24,10 +24,13 @@
 ---
 
 ### 📂 GitHub Repo Link:  
-[**Cloud Native DevOps Pipeline Deployment**](#)
+[**Cloud Native DevOps Pipeline Deployment**](https://github.com/tejas-firke/Cloud-Native-DevOps-Pipeline.git)
+
 --- 
 
 ## Connect with me on LinkedIn:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasfirke/)
+
+--- 
 
 Tejas Firke
